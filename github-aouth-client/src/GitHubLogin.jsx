@@ -1,7 +1,7 @@
 import React from "react";
 
 const GITHUB_AUTHORIZE_URL = "https://github.com/login/oauth/authorize";
-const GITHUB_CLIENT_ID = "CLIENTID HERE";
+const GITHUB_CLIENT_ID = "Ov23lilQEw28yfVebSmi";
 const REDIRECT_URI = "http://localhost:3000/oauth/callback";
 const SCOPES = ["read:user", "user:email"];
 
